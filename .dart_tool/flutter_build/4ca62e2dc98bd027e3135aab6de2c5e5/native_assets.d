@@ -1,0 +1,1 @@
+ /Users/jk/Developer/Flutter\ Projects/Flutter_practice_projects/stock_parser/.dart_tool/flutter_build/4ca62e2dc98bd027e3135aab6de2c5e5/native_assets.yaml: 
