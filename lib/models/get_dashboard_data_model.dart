@@ -9,6 +9,9 @@
 // In Dart, the final keyword is used to declare variables that cannot be
 // changed once they are assigned. A variable can only be assigned a value once,
 // either at its declaration or within the constructor of the class
+
+// \u00241 this is uni code which i have take to go separate the data of dollar
+// wise so that its easy to find out the value and can access the member easily
 class GetDashboardDataModel {
   final int? id;
   final String? name;
