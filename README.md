@@ -1,16 +1,9 @@
 # stock_scan_parser
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/jk-hub/stock_parser/assets/58223882/e9415e56-6edf-413a-ae12-3bd3a30e34e8
 
-This project is a starting point for a Flutter application.
+I have uploaded a demo video for the app. The scope of the project has been completed, and I also attempted to address items out of scope. However, please note that there may be bugs when changing the value.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
