@@ -1,4 +1,14 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
+// factory keyword
+// A factory constructor in Dart is a type of constructor that can return
+// instances of subclasses, new instances, or existing instances,
+// instead of always returning a new instance. This gives the programmer more
+// control over the creation of objects.
+
+// final keyword
+// In Dart, the final keyword is used to declare variables that cannot be
+// changed once they are assigned. A variable can only be assigned a value once,
+// either at its declaration or within the constructor of the class
 class GetDashboardDataModel {
   final int? id;
   final String? name;

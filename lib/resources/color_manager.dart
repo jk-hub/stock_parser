@@ -1,3 +1,10 @@
+// static and const keyword
+// In Dart, the static keyword declares variables and methods at the class level,
+// making them accessible and shared by all class instances.
+// The const keyword ensures variable immutability and creates compile-time
+// constants, which are immutable and have values known at compile-time.
+// For example, you can declare a static const variable inside of a class
+
 import 'package:flutter/material.dart';
 
 class ColorManager {
