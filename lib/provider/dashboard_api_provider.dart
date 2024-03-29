@@ -4,7 +4,6 @@ import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 import 'package:stock_scan_parser/constant/api_endpoints.dart';
 import 'package:stock_scan_parser/models/get_dashboard_data_model.dart';
-import 'package:stock_scan_parser/provider/error_handler.dart';
 
 class DashboardAPIs {
   Dio dio = Dio();
@@ -16,8 +15,6 @@ class DashboardAPIs {
       final responseData = jsonDecode(jsonEncode(response.data)) as List;
       if (kDebugMode) {
         print(responseData);
-      } else {
-        throw errorHandler(response as DioException);
       }
       return responseData
           .map(
